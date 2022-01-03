@@ -5,8 +5,10 @@ h1 {
   text-align: center;
 }
 img {
+  border-radius: 10px;
   display: block;
   margin: 0 auto;
+  max-width: 100%;
 }
 footer {
   text-align: center;
